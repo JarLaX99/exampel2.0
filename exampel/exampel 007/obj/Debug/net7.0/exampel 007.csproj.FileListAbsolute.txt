@@ -1,0 +1,15 @@
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\bin\Debug\net7.0\exampel 007.exe
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\bin\Debug\net7.0\exampel 007.deps.json
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\bin\Debug\net7.0\exampel 007.runtimeconfig.json
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\bin\Debug\net7.0\exampel 007.dll
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\bin\Debug\net7.0\exampel 007.pdb
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.csproj.AssemblyReference.cache
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.AssemblyInfoInputs.cache
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.AssemblyInfo.cs
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.csproj.CoreCompileInputs.cache
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.dll
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\refint\exampel 007.dll
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.pdb
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\exampel 007.genruntimeconfig.cache
+C:\Users\sosko\Desktop\examples\exampel\exampel 007\obj\Debug\net7.0\ref\exampel 007.dll
